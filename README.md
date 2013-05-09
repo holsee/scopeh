@@ -8,7 +8,7 @@ Scopeh
 
 
 #### CONTRIBUTION
-I would love work with/pair with an experienced Rubyist... get in touch!
+I would love to work/pair with an experienced Rubyist on this; as a learning experience more than anything... get in touch!
 
 <div align="center">
 <a href="mailto:me@stevenholdsworth.co.uk?subject=PAIR-PROG-REQ-[Scopeh]" style="">
