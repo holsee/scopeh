@@ -6,9 +6,7 @@ Scopeh
 * register types against symbols
 * scoping allows object lifetime management, including singleton and per thread scope
 
-
-#### CONTRIBUTION
-I would love to work/pair with an experienced Rubyist on this; as a learning experience more than anything... get in touch!
+I would love to work/pair with an experienced Rubyist on this; as a learning experience more than anything... get in touch and show me the err of my ways :)!
 
 <div align="center">
 <a href="mailto:me@stevenholdsworth.co.uk?subject=PAIR-PROG-REQ-[Scopeh]" style="">
