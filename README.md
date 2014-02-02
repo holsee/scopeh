@@ -74,7 +74,7 @@ I would love to work/pair with an experienced Rubyist on this; as a learning exp
 ```
 
 #### A WORD OF WARNING
-This is an _Experimentation_ of ioc container for ruby, this hasn't been tested in anger, nor have I profiled this for memory leaks.  Do whatever you like with it, this is MIT licensed but note this is potentially not a very idomatic approach.
+This is an _Experimentation_ of ioc container for ruby, this hasn't been tested in anger, nor have I profiled this for memory leaks.  Do whatever you like with it, this is MIT licensed but note this is potentially not a very idiomatic approach.
 
 #### LICENSE (MIT)
 
